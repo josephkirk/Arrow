@@ -5,7 +5,7 @@ Arrow
 
 ***The Game Narrative Design Tool***
 
-[Download](#download) | [Runtimes](#runtime-projects) | [Web App](#web-app) | [Guides](#guides)
+[Download](#download) | [Integration](#runtime--integration) | [Web App](#web-app) | [Guides](#guides)
 
 Arrow is the free, open-source and feature-rich tool for
 *game narrative* design, *text-adventure* development,
@@ -65,7 +65,10 @@ Additional import & export conveniences are available to ease working with file-
 > The experience is optimized for medium-large screens.
 
 
-## Runtime Projects
+## Runtime & Integration
+
++ [Bow]
+    > With a complete Arrow runtime in its core, and much more, Bow is our narrative software development kit developed as a minimal/demo open game.
 
 + [Official HTML-JS Runtime][runtime-html-js]
     > Bundled with Arrow, this runtime is used in playable exports.
@@ -107,3 +110,5 @@ Have a Good Time
 [copyright-file]: ./copyright
 <!-- Resources -->
 [arrow-screenshot]: https://mhgolkar.github.io/Arrow/media/overview.v3.png
+<!-- External -->
+[Bow]: https://github.com/mhgolkar/Bow
